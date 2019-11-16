@@ -1,2 +1,2 @@
 Hello git
-text 2
+text 2.
