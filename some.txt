@@ -2,3 +2,4 @@ line from terminal
 line from github
 text 2.
 text 4
+new line
